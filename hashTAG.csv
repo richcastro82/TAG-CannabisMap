@@ -1,0 +1,51 @@
+﻿state,stateLong,legality,test
+AL,Alabama,Illegal,4
+AK,Alaska,Legal,3
+AZ,Arizona,Legal,3
+AR,Arkansas,Medical,4
+CA,California,Legal,3
+CO,Colorado,Legal,3
+CT,Connecticut,Medical,2
+DE,Delaware,Medical,2
+FL,Florida,Decriminalized,4
+GA,Georgia,Medical,2
+HI,Hawaii,Medical,2
+ID,Idaho,Illegal,1
+IL,Illinois,Legal,3
+IN,Indiana,Medical,2
+IA,Iowa,Decriminalized,2
+KS,Kansas,Decriminalized,2
+KY,Kentucky,Medical,2
+LA,Louisiana,Medical,4
+ME,Maine,Legal,3
+MD,Maryland,Medical,2
+MA,Massachusetts,Legal,3
+MI,Michigan,Legal,3
+MN,Minnesota,Medical,2
+MS,Mississippi,Medical,2
+MO,Missouri,Medical,2
+MT,Montana,Legal,3
+NE,Nebraska,Medical,2
+NV,Nevada,Legal,3
+NH,New Hampshire,Medical,2
+NJ,New Jersey,Legal,3
+NM,New Mexico,Medical,3
+NY,New York,Medical,2
+NC,North Carolina,Medical,2
+ND,North Dakota,Medical,2
+OH,Ohio,Medical,2
+OK,Oklahoma,Medical,4
+OR,Oregon,Legal,3
+PA,Pennsylvania,Medical,2
+RI,Rhode Island,Medical,2
+SC,South Carolina,Illegal,1
+SD,South Dakota,Illegal,4
+TN,Tennessee,Illegal,1
+TX,Texas,Medical,2
+UT,Utah,Medical,4
+VT,Vermont,Legal,3
+VA,Virginia,Legal,3
+WA,Washington,Legal,3
+WV,West Virginia,Medical,2
+WI,Wisconsin,Medical,2
+WY,Wyoming,Illegal,1
