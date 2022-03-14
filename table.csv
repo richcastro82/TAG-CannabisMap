@@ -1,52 +1,52 @@
-﻿State,Legal Status,Medicinal,Decriminalized,State Laws
-Alabama,Mixed,Yes,No,https://www.mpp.org/states/alabama/
-Alaska,Fully Legal,Yes,Yes,https://www.mpp.org/states/alaska/
-Arizona,Fully Legal,Yes,Yes,https://www.mpp.org/states/arizona/
-Arkansas,Mixed,Yes,No,https://www.mpp.org/states/arkansas
-California,Fully Legal,Yes,Yes,https://www.mpp.org/states/california
-Colorado,Fully Legal,Yes,Yes,https://www.mpp.org/states/colorado
-Connecticut,Fully Legal,Yes,Yes,https://www.mpp.org/states/connecticut
-Delaware,Mixed,Yes,Yes,https://www.mpp.org/states/delaware
-District of Columbia,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Florida,Mixed,Yes,No,https://www.mpp.org/states/
-Georgia,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Hawaii,Mixed,Yes,Yes,https://www.mpp.org/states/
-Idaho,Fully Illegal,No,No,https://www.mpp.org/states/
-Illinois,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Indiana,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Iowa,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Kansas,Fully Illegal,No,No,https://www.mpp.org/states/
-Kentucky,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Louisiana,Mixed,Yes,Yes,https://www.mpp.org/states/
-Maine,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Maryland,Mixed,Yes,Yes,https://www.mpp.org/states/
-Massachusetts,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Michigan,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Minnesota,Mixed,Yes,Yes,https://www.mpp.org/states/
-Mississippi,Mixed,Yes,Yes,https://www.mpp.org/states/
-Missouri,Mixed,Yes,Yes,https://www.mpp.org/states/
-Montana,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Nebraska,Fully Illegal,No,Yes,https://www.mpp.org/states/
-Nevada,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-New Hampshire,Mixed,Yes,Yes,https://www.mpp.org/states/
-New Jersey,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-New Mexico,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-New York,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-North Carolina,Fully Illegal,No,Yes,https://www.mpp.org/states/
-North Dakota,Mixed,Yes,Yes,https://www.mpp.org/states/
-Ohio,Mixed,Yes,Yes,https://www.mpp.org/states/
-Oklahoma,Mixed,Yes,No,https://www.mpp.org/states/
-Oregon,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Pennsylvania,Mixed,Yes,No,https://www.mpp.org/states/
-Rhode Island,Mixed,Yes,Yes,https://www.mpp.org/states/
-South Carolina,Fully Illegal,No,No,https://www.mpp.org/states/
-South Dakota,Mixed,Yes,No,https://www.mpp.org/states/
-Tennessee,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Texas,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Utah,Mixed,Yes,No,https://www.mpp.org/states/
-Vermont,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Virginia,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-Washington,Fully Legal,Yes,Yes,https://www.mpp.org/states/
-West Virginia,Mixed,Yes,No,https://www.mpp.org/states/
-Wisconsin,Mixed,CBD Oil Only,No,https://www.mpp.org/states/
-Wyoming,Fully Illegal,No,No,https://www.mpp.org/states/
+﻿id,State,Legal Status,Medicinal,Decriminalized,State Laws
+AL,Alabama,Mixed,Yes,No,https://www.mpp.org/states/alabama/
+AK,Alaska,Fully Legal,Yes,Yes,https://www.mpp.org/states/alaska/
+AZ,Arizona,Fully Legal,Yes,Yes,https://www.mpp.org/states/arizona/
+AR,Arkansas,Mixed,Yes,No,https://www.mpp.org/states/arkansas
+CA,California,Fully Legal,Yes,Yes,https://www.mpp.org/states/california
+CO,Colorado,Fully Legal,Yes,Yes,https://www.mpp.org/states/colorado
+CT,Connecticut,Fully Legal,Yes,Yes,https://www.mpp.org/states/connecticut
+DE,Delaware,Mixed,Yes,Yes,https://www.mpp.org/states/delaware
+DC,District of Columbia,Fully Legal,Yes,Yes,https://www.mpp.org/states/
+FL,Florida,Mixed,Yes,No,https://www.mpp.org/states/Florida
+GA,Georgia,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Georgia
+HI,Hawaii,Mixed,Yes,Yes,https://www.mpp.org/states/Hawaii
+ID,Idaho,Fully Illegal,No,No,https://www.mpp.org/states/Idaho
+IL,Illinois,Fully Legal,Yes,Yes,https://www.mpp.org/states/Illinois
+IN,Indiana,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Indiana
+IA,Iowa,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Iowa
+KS,Kansas,Fully Illegal,No,No,https://www.mpp.org/states/Kansas
+KY,Kentucky,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Kentucky
+LA,Louisiana,Mixed,Yes,Yes,https://www.mpp.org/states/Lousiana
+ME,Maine,Fully Legal,Yes,Yes,https://www.mpp.org/states/Maine
+MD,Maryland,Mixed,Yes,Yes,https://www.mpp.org/states/Maryland
+MA,Massachusetts,Fully Legal,Yes,Yes,https://www.mpp.org/states/Massachusetts
+MI,Michigan,Fully Legal,Yes,Yes,https://www.mpp.org/states/Michigan
+MN,Minnesota,Mixed,Yes,Yes,https://www.mpp.org/states/Minnesota
+MS,Mississippi,Mixed,Yes,Yes,https://www.mpp.org/states/Mississippi
+MO,Missouri,Mixed,Yes,Yes,https://www.mpp.org/states/Missouri
+MT,Montana,Fully Legal,Yes,Yes,https://www.mpp.org/states/Montana
+NE,Nebraska,Fully Illegal,No,Yes,https://www.mpp.org/states/Nebraska
+NV,Nevada,Fully Legal,Yes,Yes,https://www.mpp.org/states/Nevada
+NH,New Hampshire,Mixed,Yes,Yes,https://www.mpp.org/states/NewHampshire
+NJ,New Jersey,Fully Legal,Yes,Yes,https://www.mpp.org/states/NewJersey
+NM,New Mexico,Fully Legal,Yes,Yes,https://www.mpp.org/states/NewMexico
+NY,New York,Fully Legal,Yes,Yes,https://www.mpp.org/states/NewYork
+NC,North Carolina,Fully Illegal,No,Yes,https://www.mpp.org/states/NorthCarolina
+ND,North Dakota,Mixed,Yes,Yes,https://www.mpp.org/states/NorthDakota
+OH,Ohio,Mixed,Yes,Yes,https://www.mpp.org/states/Ohio
+OK,Oklahoma,Mixed,Yes,No,https://www.mpp.org/states/Oklahoma
+OR,Oregon,Fully Legal,Yes,Yes,https://www.mpp.org/states/Oregon
+PA,Pennsylvania,Mixed,Yes,No,https://www.mpp.org/states/Pennesylvania
+RI,Rhode Island,Mixed,Yes,Yes,https://www.mpp.org/states/RhodeIsland
+SC,South Carolina,Fully Illegal,No,No,https://www.mpp.org/states/SouthCarolina
+SD,South Dakota,Mixed,Yes,No,https://www.mpp.org/states/SouthDakota
+TN,Tennessee,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Tennessee
+TX,Texas,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Texas
+UT,Utah,Mixed,Yes,No,https://www.mpp.org/states/Utah
+VT,Vermont,Fully Legal,Yes,Yes,https://www.mpp.org/states/Vermont
+VA,Virginia,Fully Legal,Yes,Yes,https://www.mpp.org/states/Virginia
+WA,Washington,Fully Legal,Yes,Yes,https://www.mpp.org/states/Washington
+WV,West Virginia,Mixed,Yes,No,https://www.mpp.org/states/WestVirginia
+WI,Wisconsin,Mixed,CBD Oil Only,No,https://www.mpp.org/states/Wisconsin
+WY,Wyoming,Fully Illegal,No,No,https://www.mpp.org/states/Wyoming

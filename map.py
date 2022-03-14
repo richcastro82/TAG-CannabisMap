@@ -10,7 +10,7 @@ from dash.dependencies import State, Input, Output
 app = Dash(__name__,)
 server=app.server
 
-df = pd.read_csv("hashTAG.csv", dtype={"code": str})
+df = pd.read_csv("table.csv", dtype={"code": str})
 df2=pd.read_csv("table.csv")
 map_data = df.copy()
 State_List=['Floida', 'Alabama']
@@ -19,11 +19,12 @@ State_List=['Floida', 'Alabama']
 def FullMap():
         figure = px.choropleth(
         map_data,
-        locations='state',
-        labels={'state':'Medical'},
+        locations='id',
+        # labels={'State':'Medicinal'},
         locationmode='USA-states',
-        color='legality',
-        hover_name="state",
+        color='Legal Status',
+        hover_name="State",
+        hover_data=["Medicinal", "Decriminalized"],
         color_discrete_sequence=px.colors.qualitative.Antique,
         scope="usa"
         )
