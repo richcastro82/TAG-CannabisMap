@@ -65,7 +65,9 @@ app.layout = html.Div(style={'width':'100%'},children=[
 
     html.Div(style={'width':'800px','margin':'auto'}, children=[
         html.Div(id='output_container', children=[
-            dcc.Graph(id='hash_map', figure=FullMap()
+            dcc.Graph(id='hash_map', config= {'displaylogo': False}, figure=FullMap()),
+            html.P(className="source", children=["Source: Marijuana Policy Project"]),
+            html.P(className="sourceDate", children=["Report Date: 3/15/2022"]),
 
 
             #     fig.update_layout(legend=dict(
@@ -97,7 +99,7 @@ app.layout = html.Div(style={'width':'100%'},children=[
 
 
 
-                )
+
             ]),
             html.Br(),]),
 
