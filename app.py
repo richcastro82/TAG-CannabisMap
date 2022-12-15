@@ -25,7 +25,7 @@ def FullMap():
         color='Legal Status',
         hover_name="State",
         hover_data=["Medicinal", "Decriminalized"],
-        colorscale='Greens',
+        color_discrete_sequence=px.colors.qualitative.Antique,
         scope="usa"
         )
 
