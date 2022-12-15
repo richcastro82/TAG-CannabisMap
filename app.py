@@ -13,23 +13,26 @@ server=app.server
 df = pd.read_csv("table.csv", dtype={"code": str})
 df2=pd.read_csv("table.csv")
 map_data = df.copy()
-State_List=['Floida', 'Alabama']
+#State_List=['Floida', 'Alabama']
 
 
 def FullMap():
         figure = px.choropleth(
         map_data,
         locations='id',
-        # labels={'State':'Medicinal'},
+        #labels={'State':'Medicinal'},
         locationmode='USA-states',
         color='Legal Status',
         hover_name="State",
+    
         hover_data=["Medicinal", "Decriminalized"],
-        color_discrete_sequence=px.colors.qualitative.Antique,
+        color_discrete_sequence=["#97C072", "#34B924", "#C47D3B"],
         scope="usa"
         )
 
         figure.update_layout(
+        autosize=True,
+
             legend_title_text="",
             legend=dict(
                 # x=0,
@@ -53,6 +56,7 @@ def FullMap():
             )
         )
 
+
         return figure
 # ------------------------------------------------------------------------------
 # App layout
@@ -63,11 +67,11 @@ app.layout = html.Div(style={'width':'100%'},children=[
 
 
 
-    html.Div(style={'width':'800px','margin':'auto'}, children=[
+    html.Div(style={'width':'100%','margin':'auto'}, children=[
         html.Div(id='output_container', children=[
             dcc.Graph(id='hash_map', config= {'displaylogo': False}, figure=FullMap()),
             html.P(className="source", children=["Source: Marijuana Policy Project"]),
-            html.P(className="sourceDate", children=["Report Date: 3/15/2022"]),
+            html.P(className="sourceDate", children=["Report Date: 12/15/2022"]),
 
 
             #     fig.update_layout(legend=dict(
