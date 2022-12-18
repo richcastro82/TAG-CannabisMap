@@ -24,14 +24,24 @@ def FullMap():
         locationmode='USA-states',
         color='Legal Status',
         hover_name="State",
-    
+
         hover_data=["Medicinal", "Decriminalized"],
         color_discrete_sequence=["#97C072", "#34B924", "#C47D3B"],
         scope="usa"
         )
 
         figure.update_layout(
-        autosize=True,
+         autosize=False,
+        margin = dict(
+                l=20,
+                r=20,
+                b=0,
+                t=0,
+                pad=4,
+                autoexpand=True
+            ),
+            width=900,
+            height=600,
 
             legend_title_text="",
             legend=dict(
