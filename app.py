@@ -79,7 +79,7 @@ app.layout = html.Div(style={'width':'100%'},children=[
 
     html.Div(style={'width':'100%','margin':'auto'}, children=[
         html.Div(id='output_container', children=[
-            dcc.Graph(id='hash_map', config= {'displaylogo': False}, figure=FullMap()),
+            dcc.Graph(id='hash_map', className="hash_map", config= {'displaylogo': False}, figure=FullMap()),
             html.P(className="source", children=["Source: Marijuana Policy Project"]),
             html.P(className="sourceDate", children=["Report Date: 12/15/2022"]),
 
